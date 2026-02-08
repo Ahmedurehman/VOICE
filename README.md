@@ -1,0 +1,1 @@
+Note on the Demo Video: The demonstration video was recorded using a simulation script to ensure smooth pacing and audio clarity during the presentation. The actual source code in this repository (voice_engine.py) contains the fully functional Gemini 3 implementation with Multi-Key Failover and Vision logic.

@@ -1,0 +1,7 @@
+google-genai
+edge-tts
+pygame
+SpeechRecognition
+pillow
+pyautogui
+python-dotenv
